@@ -2,6 +2,8 @@
 
 ## 轻量双向机器人
 
+## 支持语音，照片，表情
+
 ### 机场推荐：
 - 曙光云：https://dawnscloud.com
 - 超实惠：https://cshjc.net
